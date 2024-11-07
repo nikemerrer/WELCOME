@@ -504,7 +504,7 @@ margin: 6% 0% 5% 0%
 }
 
 .name{
-    margin-top: 5%;
+
     display: grid;
 }
 
@@ -582,6 +582,10 @@ margin: 6% 0% 5% 0%
     .zapolnite_personal_dan{
         grid-template-columns: 80%;
         column-gap: 0%;
+    }
+
+    .name{
+        margin-top: 5%;
     }
 
     .about_u{
