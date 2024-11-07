@@ -1,12 +1,11 @@
-
 /* font-family: 'Circe Regular'; */
 @font-face {
     font-family: 'Circe Regular';
-    src: url('../fonts/CirceRegular/Circe-Regular.eot');
-    src: url('../fonts/CirceRegular/Circe-Regular.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/CirceRegular/Circe-Regular.woff') format('woff'),
-    url('../fonts/CirceRegular/Circe-Regular.ttf') format('truetype'),
-    url('../fonts/CirceRegular/Circe-Regular.svg#webfont') format('svg');
+    src: url('./Circe-Regular.eot');
+    src: url('./Circe-Regular.eot?#iefix') format('embedded-opentype'),
+    url('./Circe-Regular.woff') format('woff'),
+    url('./Circe-Regular.ttf') format('truetype'),
+    url('./Circe-Regular.svg#webfont') format('svg');
     font-weight: normal;
     font-style: normal;
 }
